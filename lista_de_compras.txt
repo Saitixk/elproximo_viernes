@@ -36,4 +36,8 @@ Quienes van
 -Ernesto
 -Evan
 -Chaparro
+<<<<<<< Updated upstream
 -Atascado
+=======
+-Atascado 
+>>>>>>> Stashed changes
